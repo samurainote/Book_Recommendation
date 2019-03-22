@@ -1,6 +1,6 @@
 # Collaborative Filtering with SVD for Book Recommendation
 ## 強調フィルタリングと特異値分解を用いた本の推薦エンジン
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6w3Es6SDceDbk3bXC8P4SOKC6XG4EBe0EucElXjBjLRlP_7BNg)
+![](https://buildingrecommenders.files.wordpress.com/2015/11/matrix-factorisation.png?w=900)
 
 ## Introduction
 
