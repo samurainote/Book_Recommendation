@@ -4,12 +4,11 @@
 
 ## Introduction
 
-#### Machine Learning in Human Resources
-I think HR is one of the Hottest Business Domain for application of Machine Learning techniques.
+#### Machine Learning in Recommend System
 
-Since retirement analysis is performed on existing employees, not only attribute data that can be understood from resumes in hiring, but also transaction data such as trends in overtime work and experience values ​​for dealing with projects and problems are effective. Not only personal attributes (education, family structure, evaluation), but also superior's attribute information and department's attributes (department sales and total number of people) etc. are valid.
+Collaborative filtering uses both purchase and purchase data from one target person and products checked by another person, based on the purchase pattern, the similarity between people or co-occurrence between products. It is a method that can present personalized products by analyzing in association analysis (correlation analysis) and correlating the action history of the target person. 
 
-A decrease in human resources means a gradual decrease in employees over time. In general, relatively Recruiting is a problem for companies. Human resources often play a leading role in designing corporate compensation programs, workplace cultures, and motivation systems that help organizations maintain good employees.
+The premise is that “the evaluation of people who are similar to you will be similar to your evaluation. Therefore, the difference is that you want products that you do not have, but people who are similar to you have. There is no such thing! Therefore, it is basic to look for people who are similar to you among many customers, and to recommend the ones that those people have that you do not have.
 
 ## Technical Preferences
 
